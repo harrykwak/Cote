@@ -1,5 +1,3 @@
-package CodingTest3;
-
 import java.util.Calendar;
 
 public class CodingTest3{

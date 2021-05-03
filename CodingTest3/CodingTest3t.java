@@ -1,5 +1,3 @@
-package CodingTest3;
-
 import java.util.Scanner;
 import java.text.ParseException;
 import java.util.Calendar;

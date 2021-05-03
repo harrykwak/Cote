@@ -1,5 +1,3 @@
-package CodingTest1;
-
 public class CodingTest1 {
     public static void main(String[] args) {
 

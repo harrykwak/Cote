@@ -1,6 +1,4 @@
-package Cote.CodingTest4;
 import java.util.ArrayList;
-
 public class CodingTest4t {
     public static void main(String[] args) {
         String[] page = {"척추동물", "어류", "척추동물", "무척추동물", "파충류", "척추동물", "어류", "파충류"};
