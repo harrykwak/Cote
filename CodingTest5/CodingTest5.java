@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Stack;
-
 public class CodingTest5 {
     public static void main(String[] args) {
         HashMap<Integer, Integer[]> graph = new HashMap<Integer, Integer[]>();
